@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{EB683C48-D39F-443C-AB54-9549266AF133}") = "Exe Dropper Converter", "Exe Dropper Converter\Exe Dropper Converter.vbproj", "{98DC05F7-8449-4622-BFFF-1538F159BE0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DC05F7-8449-4622-BFFF-1538F159BE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DC05F7-8449-4622-BFFF-1538F159BE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DC05F7-8449-4622-BFFF-1538F159BE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DC05F7-8449-4622-BFFF-1538F159BE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DF9FCF9-C4EE-440C-A669-921EE8BE39CE}
+	EndGlobalSection
+EndGlobal
